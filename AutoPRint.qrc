@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>AutoPRinter_icon.ico</file>
+    </qresource>
+</RCC>
